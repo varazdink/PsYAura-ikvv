@@ -1,0 +1,7 @@
+{
+  "name": "psi",
+  "description": "An AI-powered counselor specializing in psychology, psychotherapy, and couples therapy to help you navigate the complexities of long-term relationships. Get empathetic and insightful advice based on established psychological principles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
